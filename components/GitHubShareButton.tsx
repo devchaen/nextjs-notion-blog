@@ -5,18 +5,18 @@ import styles from './styles.module.css'
 export const GitHubShareButton: React.FC = () => {
   return (
     <a
-      href='https://github.com/transitive-bullshit/nextjs-notion-starter-kit'
+      href='https://github.com/devchaen/nextjs-notion-blog.git'
       target='_blank'
       rel='noopener noreferrer'
       className={styles.githubCorner}
       aria-label='View source on GitHub'
     >
       <svg
-        width='80'
-        height='80'
+        width='50'
+        height='50'
         viewBox='0 0 250 250'
         style={{
-          fill: '#70B7FD',
+          fill: '#000',
           color: '#fff',
           position: 'absolute',
           zIndex: 1001,
