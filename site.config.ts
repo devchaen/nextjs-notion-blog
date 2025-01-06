@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Chaelog',
-  domain: 'chaelog.com',
+  domain: 'chaelog.fyi',
   author: 'Chaehyeon Kim',
 
   // open graph metadata (optional)
